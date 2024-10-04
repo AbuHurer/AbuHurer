@@ -1,3 +1,4 @@
+<img src="C:\Users\saeem\OneDrive\Desktop\BP-Computer-Vision-Across-Industries_website-preview.jpg" alt="">
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hurer</h1>
 <h3 align="center">A passionate Student From India, Curious To Learn!</h3>
 
