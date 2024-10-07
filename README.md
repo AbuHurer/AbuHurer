@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/Ubql.gif" alt="" width="1000" height="400" >
+<img src="C:\Users\saeem\OneDrive\Pictures\Saved Pictures\Early Evening, Michal Kváč.png" alt="" width="1000" height="400" >
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hurer</h1>
 <h3 align="center">A passionate Student From India, Curious To Learn!</h3>
 
