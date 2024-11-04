@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://twitter.com/hurer9148" target="blank"><img src="https://img.shields.io/twitter/follow/hurer9148?logo=twitter&style=for-the-badge" alt="hurer9148" /></a> </p>
 
-- 🔭 I’m currently working on **Computer vision in Marine Biology**
+- 🔭 I’m currently working on **AI AND NATUROPATHY**
 
-- 🌱 I’m currently learning **Advance Python, MLops**
+- 🌱 I’m currently learning **COMPUTER VISION AND MACHINE LEARNING**
 
-- 🤝 I’m looking for help with **Computer vision**
+- 🤝 I’m looking for help with **ADVANCE AI**
 
 - 📫 How to reach me **mohammedabuhurer@gmail.com**
 
