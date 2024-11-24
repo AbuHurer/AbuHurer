@@ -1,10 +1,10 @@
-<img src="https://w0.peakpx.com/wallpaper/115/408/HD-wallpaper-iceberg-minimalist.jpg" alt="" width="1000" height="500" >
+<img src="https://preview.redd.it/y89lnoj42qx61.png?auto=webp&s=49b425bd5f81e76888b09ed8a22b5a02facac559" alt="" width="1000" height="500" >
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hurer</h1>
 <h3 align="center">A passionate Student From India, Curious To Learn!</h3>
 
 <p align="left"> <a href="https://twitter.com/hurer9148" target="blank"><img src="https://img.shields.io/twitter/follow/hurer9148?logo=twitter&style=for-the-badge" alt="hurer9148" /></a> </p>
 
-- 🔭 I’m currently working on **AI AND NATUROPATHY**
+- 🔭 I’m currently working on **AI projects**
 
 - 🌱 I’m currently learning **COMPUTER VISION AND MACHINE LEARNING**
 
