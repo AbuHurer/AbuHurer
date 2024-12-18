@@ -1,4 +1,4 @@
-<img src="https://preview.redd.it/y89lnoj42qx61.png?auto=webp&s=49b425bd5f81e76888b09ed8a22b5a02facac559" alt="" width="1000" height="500" >
+<img src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Responsive Image" style="max-width: 100%; height: auto;">
 <h1 align="center">Hi 👋, I'm Mohammed Abu Hurer</h1>
 <h3 align="center">A passionate Student From India, Curious To Learn!</h3>
 
